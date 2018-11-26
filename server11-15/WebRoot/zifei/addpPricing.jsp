@@ -16,7 +16,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <td align="center"><a href="../user/user2.html">[用户管理]</a></td>
 <td align="center"><a href="../zifei/list.jsp">[资费管理]</a></td>
 <td align="center"><a href="../usermanage/1.html">[用户自服务]</a></td>
-<td align="center"><a href="../manage/4.1.html">[管理员账务管理]</a></td>
+<td align="center"><a href="../manage/4.1.jsp">[管理员账务管理]</a></td>
 <td align="center"><a href="../exit.jsp">[退出系统]</a></td>
 
 </tr>
